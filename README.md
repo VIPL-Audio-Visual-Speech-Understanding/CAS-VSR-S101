@@ -1,11 +1,11 @@
-# CAS-VSR-S101
+# CAS-VSR-S101 (CVPR '24)
 **Last updated:** February 13, 2025
 
-<img src="https://github.com/user-attachments/assets/25642d77-90da-4bbc-a154-aa6fc63f5604" alt="CAS-VSR-S101" width="480"/>
+<img src="https://github.com/user-attachments/assets/5ee27e92-e127-44ed-b66c-6bca5a69e50e" alt="CAS-VSR-S101" width="360"/>
 
 ## Introduction
 
-The CAS-VSR-S101 database is a Chinese Mandarin dataset intended for research related to audio-visual speech. Please refer to the [license agreement](https://github.com/VIPL-Audio-Visual-Speech-Understanding/CAS-VSR-S101/blob/fec539cf3ee7b9a687bdbff00ee5bd2982b5bea2/CAS-VSR-S101-Release%20Agreement.pdf) in this repository and supplementary materials for the [ES³ paper](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Zhang_ES3_Evolving_Self-Supervised_CVPR_2024_supplemental.pdf) for more details.
+The [CAS-VSR-S101 database](https://paperswithcode.com/dataset/cas-vsr-s101) is a Chinese Mandarin dataset intended for research related to audio-visual speech, released by the [audio-visual speech understanding team](https://vipl.ict.ac.cn/en/research/speech/) at Visual Information Processing and Learning group, key Intelligent Information Processing Laboratory of Chinese Academy of Sciences. Please refer to the [license agreement](https://github.com/VIPL-Audio-Visual-Speech-Understanding/CAS-VSR-S101/blob/fec539cf3ee7b9a687bdbff00ee5bd2982b5bea2/CAS-VSR-S101-Release%20Agreement.pdf) in this repository and supplementary materials for the [ES³ paper](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Zhang_ES3_Evolving_Self-Supervised_CVPR_2024_supplemental.pdf) for more details.
 
 ## Dataset Contents
 
