@@ -15,6 +15,10 @@ The dataset includes:
 - **Annotations:** Ground truth transcriptions for each video.
 - **Metadata:** Additional information such as speaker identity (host, interviewer or interviewee), gender and whether the speaker speaks canonical Mandarin or dialectal Mandarin.
 
+## Accessing the Dataset
+
+To access the CAS-VSR-S68 dataset, please scan the signed agreement and send it to [lipreading@vipl.ict.ac.cn](mailto:lipreading@vipl.ict.ac.cn). **Please note that the dataset is only available to universities and research institutes for research purposes only.** Note that the agreement should be signed by **a full-time staff member (usually your advisor).**  Sharing the dataset with others is **not allowed** under the terms of the agreement. For questions or further information, please contact us via e-mail.
+
 ## Data Privacy and Security
 Due to data privacy concerns, only the lip region of the videos at a resolution of 96x96 pixels is available. Users are expected to comply with all guidelines and not re-distribute the data.
 
