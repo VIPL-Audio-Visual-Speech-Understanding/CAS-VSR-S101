@@ -1,7 +1,9 @@
 # CAS-VSR-S101 (CVPR '24)
 **Last updated:** February 13, 2025
 
-<img src="https://github.com/user-attachments/assets/5ee27e92-e127-44ed-b66c-6bca5a69e50e" alt="CAS-VSR-S101" width="360"/>
+<!-- <img src="https://github.com/user-attachments/assets/5ee27e92-e127-44ed-b66c-6bca5a69e50e" alt="CAS-VSR-S101" width="360"/> -->
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODgzeXExY2U3MjhuM3hpejVwOTJ5Z3phbmc5NGs2OTdvdHcxbWxueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wZMdS6PKuLbkdJWt8v/giphy.gif" alt="CAS-VSR-S101" width="950"/>
+
 
 ## Introduction
 
